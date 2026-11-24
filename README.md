@@ -1,19 +1,19 @@
-# สวัสดีครับ ผมชื่อ Theeranan 👋
+# Hi there, I'm Theeranan 👋
 
 **Student at Kasetsart University | Tech Enthusiast**  
-กำลังศึกษาและฝึกฝนทักษะด้านการเขียนโปรแกรม เทคโนโลยี และพร้อมเรียนรู้สิ่งใหม่ๆ อยู่เสมอ
+Currently studying and practicing programming skills, exploring new technologies, and always eager to learn.
 
 ---
 
-### 🧑‍💻 เกี่ยวกับผม (About Me)
-- 🎓 กำลังศึกษาอยู่ที่มหาวิทยาลัยเกษตรศาสตร์ (Kasetsart University)
-- 🌱 กำลังเรียนรู้พื้นฐานการเขียนโปรแกรมและการใช้งาน GitHub
-- 💬 ยินดีแลกเปลี่ยนความรู้และพูดคุยเรื่องเทคโนโลยี
-- 📫 ช่องทางติดต่อ: **theeranan.na@ku.th**
+### 🧑‍💻 About Me
+- 🎓 Studying at **Kasetsart University**
+- 🌱 Learning the fundamentals of programming and how to use GitHub
+- 💬 Open to sharing knowledge and discussing tech topics
+- 📫 Contact me: **theeranan.na@ku.th**
 
 ---
 
-### 🛠️ ทักษะและเครื่องมือที่กำลังเรียนรู้ (Tech Stack)
+### 🛠️ Tech Stack (Currently Learning)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,12 +23,12 @@
 
 ---
 
-### 📊 สถิติ GitHub (GitHub Stats)
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theerananna-cmyk&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theerananna-cmyk&layout=compact&theme=tokyonight)
 
 ---
 
-### 🌐 ช่องทางติดต่อ (Connect with Me)
+### 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theeranan.na@ku.th)
